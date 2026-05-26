@@ -18,15 +18,39 @@
 <br />
 <br />
 
-## What is Hawcx
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Hawcx is a Zero Knowledge Authentication (ZKA) platform that replaces passwords, passkeys, and shared secrets with **device-bound cryptographic proofs**. There is no credential database to breach, no phishable secret to harvest, and no centralized vault for attackers to target.
+### For Humans
+
+<sub>Replace passwords, passkeys, and shared secrets with device-bound cryptographic proofs. No credential database to breach, no phishable secret to harvest, no centralized vault to target.</sub>
 
 — **Cryptographic proof, not credentials.** Ed25519 device-bound keypairs with DPoP token binding ([RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449)).  
 — **Quantum-resistant by design.** Crypto-agile foundation ready for NIST post-quantum algorithms.  
-— **Built to outsmart automation.** Device-bound architecture resists AI-driven attacks, replay, and synthetic identity fraud.  
 — **Drop-in federation.** OIDC and SAML integration with existing IAM platforms.  
 — **SOC 2 Type II certified.**
+
+<sub><a href="https://www.hawcx.com">Learn more →</a></sub>
+
+</td>
+<td valign="top" width="50%">
+
+### For Agents
+
+<sub>Every AI agent verified and in control. Every tool call passes policy. Every decision leaves a signed receipt.</sub>
+
+— **Cryptographic identity per agent.** Keypair, owner, purpose, and revocation boundary enrolled at creation.  
+— **Policy on every tool call.** Cedar engine evaluates allow, deny, or hold before execution.  
+— **Signed receipts.** Cryptographic audit trail, verifiable offline.  
+— **Short-lived, scoped tokens** bound to minimum required permissions.  
+— **Human approval gates** for sensitive actions, with full draft and context attached.
+
+<sub><a href="https://www.hawcx.com/agents">Learn more →</a></sub>
+
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -67,14 +91,4 @@ Hawcx is a Zero Knowledge Authentication (ZKA) platform that replaces passwords,
 ## Talk to us
 
 **Demo** — [calendly.com/team-hawcx](https://calendly.com/team-hawcx)  
-**Security disclosures** — security@hawcx.com  
-**General** — admin@hawcx.com
-
-<br />
-<br />
-
-<div align="center">
-
-<sub>Built in Austin, TX&nbsp;·&nbsp;SOC 2 Type II certified&nbsp;·&nbsp;© 2026 Hawcx</sub>
-
-</div>
+**Security disclosures** — security@hawcx.com
