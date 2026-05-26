@@ -32,6 +32,7 @@ Pick your platform. Each SDK ships with sample apps and integration guides.
 | Android | [`hawcx_android_sdk`](https://github.com/hawcx/hawcx_android_sdk) | Stable |
 | React Native | [`reactnative_sdk`](https://github.com/hawcx/reactnative_sdk) | Stable |
 | Flutter | [`flutter_sdk`](https://github.com/hawcx/flutter_sdk) | Stable |
+| AI Agents | [`hawcx_agentic_sdk`](https://github.com/hawcx/hawcx_agentic_sdk) | Alpha |
 
 ### React quick look
 
