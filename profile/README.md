@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://framerusercontent.com/images/LWvgxNenE5YA1kp60okH4QF8Mk.png" alt="Hawcx" width="540" />
+<img src="https://framerusercontent.com/images/LWvgxNenE5YA1kp60okH4QF8Mk.png" alt="Hawcx" width="220" />
 
 <br />
 <br />
